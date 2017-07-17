@@ -23,3 +23,6 @@ img {
 .pull-right {
   float: right;
 }
+* {
+  border: 1px solid;
+}
