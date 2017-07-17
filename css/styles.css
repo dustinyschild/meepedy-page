@@ -13,6 +13,12 @@ img {
   display: inline;
   font-size: 75px;
 }
-.pull-right{
+.main-nav {
+  list-style: none;
+}
+.nav-item {
+  display: inline;
+}
+.pull-right {
   float: right;
 }
