@@ -24,6 +24,7 @@ img {
 }
 .nav-item {
   display: inline;
+  font-size: 25px;
 }
 .pull-right {
   float: right;
