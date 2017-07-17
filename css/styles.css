@@ -13,3 +13,6 @@ img {
   display: inline;
   font-size: 75px;
 }
+.pull-right{
+  float: right;
+}
