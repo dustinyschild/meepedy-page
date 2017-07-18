@@ -1,0 +1,24 @@
+{
+  "name": "meepedy-page",
+  "version": "1.0.0",
+  "description": "A page for all the random things I do and want to share",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meepedy/meepedy-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meepedy/meepedy-page/issues"
+  },
+  "homepage": "https://github.com/Meepedy/meepedy-page#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
