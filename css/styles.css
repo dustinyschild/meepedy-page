@@ -45,14 +45,29 @@ img {
   margin-bottom: 10px;
   padding: 10px;
 }
+.portfolio-header {
+  margin: 0px 0px 0px 17px;
+}
+.portfolio-item {
+  width: 30%;
+  height: 250px;
+  display: inline-block;
+  margin-left: 17px;
+  margin-top: 10px;
+}
 .videos {
   min-height: 700px;
-  width: 30%;
+  width: 26.5%;
+  padding: 10px;
+}
+.video-item {
+  margin: 10px auto;
+  height: 200px;
 }
 footer {
   min-height: 100px;
   clear: both;
 }
-.wrapper, header, .portfolio, .videos, footer {
+.wrapper, header, .portfolio, .videos, footer, .portfolio-item, .video-item{
   border: 1px solid;
 }
