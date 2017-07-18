@@ -1,11 +1,14 @@
+
 .wrapper{
   max-width: 1200px;
   margin: 0px auto;
   padding: 10px;
+  overflow: hidden;
 }
 header {
   min-height: 100px;
   padding: 10px;
+  margin-bottom: 10px;
 }
 img {
   max-width: 100%;
@@ -21,14 +24,28 @@ img {
 }
 .main-nav {
   list-style: none;
+  padding: 0px;
+  margin: 0px;
 }
 .nav-item {
   display: inline;
   font-size: 25px;
+  padding: 5px;
+  border: solid 1px;
 }
 .pull-right {
   float: right;
 }
-* {
+.portfolio {
+  width: 69%;
+  min-height: 700px;
+  margin-right: 1&;
+  float: left;
+}
+.videos {
+  min-height: 700px;
+  width: 30%;
+}
+.wrapper, header, .portfolio, .videos {
   border: 1px solid;
 }
