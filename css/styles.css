@@ -46,19 +46,20 @@ img {
   padding: 10px;
 }
 .portfolio-header {
-  margin: 0px 0px 0px 17px;
+  margin: 0px 0px 0px 2%;
 }
 .portfolio-item {
   width: 30%;
   height: 250px;
   display: inline-block;
-  margin-left: 17px;
-  margin-top: 10px;
+  margin-left: 2%;
+  margin-top: 15px;
 }
 .videos {
   min-height: 700px;
-  width: 26.5%;
+  width: 26%;
   padding: 10px;
+  margin-left: 1%;
 }
 .video-item {
   margin: 10px auto;
