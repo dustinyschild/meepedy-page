@@ -1,0 +1,74 @@
+
+.wrapper{
+  max-width: 1200px;
+  margin: 0px auto;
+  padding: 10px;
+  overflow: hidden;
+}
+header {
+  min-height: 100px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+img {
+  max-width: 100%;
+}
+.logo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.page-header {
+  display: inline;
+  font-size: 75px;
+}
+.main-nav {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+.nav-item {
+  display: inline;
+  font-size: 25px;
+  padding: 5px;
+  border: solid 1px;
+}
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+.portfolio {
+  width: 69%;
+  min-height: 700px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.portfolio-header {
+  margin: 0px 0px 0px 2%;
+}
+.portfolio-item {
+  width: 30%;
+  height: 250px;
+  display: inline-block;
+  margin-left: 2%;
+  margin-top: 15px;
+}
+.videos {
+  min-height: 700px;
+  width: 26%;
+  padding: 10px;
+  margin-left: 1%;
+}
+.video-item {
+  margin: 10px auto;
+  height: 200px;
+}
+footer {
+  min-height: 100px;
+  clear: both;
+}
+.wrapper, header, .portfolio, .videos, footer, .portfolio-item, .video-item{
+  border: 1px solid;
+}
